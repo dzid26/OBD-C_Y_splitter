@@ -2335,6 +2335,17 @@
 		)
 		(uuid "805c1100-9062-43d5-82f3-766d66177032")
 	)
+	(text "J1 is direct\nJ2 is flipps rx/tx with the cable\nJ3 is direct (cable flipping is cancelled out by the PCB)\n\nSo harness box goes to J2.  - Effectively we want to flip only once - with the cable - like in the normal setup. \n"
+		(exclude_from_sim no)
+		(at 112.522 26.162 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "89820943-3478-4f49-931f-f1146e283d35")
+	)
 	(junction
 		(at 114.3 109.22)
 		(diameter 0)
