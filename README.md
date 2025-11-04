@@ -7,10 +7,10 @@
 
 
 ### Arrangement:
-- Female-Male-Female - harness box has to be connected to J2 (as indicated by the arrow's origin)
+- Female-Male-Female - harness box has to be connected to J1 (as indicated by the arrow's origin)
 
-<img height="316" alt="image" src="https://github.com/user-attachments/assets/2d37cd54-6173-48c4-9f35-3ad7b4ed08e1" />
+<img height="316" alt="image" src="https://github.com/user-attachments/assets/65833424-ff2d-4c5d-af3d-feb66fa68399" />
 
 
 Schematic:
-<img width="1605" height="1115" alt="image" src="https://github.com/user-attachments/assets/84daa962-55a4-4b09-86f3-552232310e00" />
+<img width="1605" height="1115" alt="image" src="https://github.com/user-attachments/assets/7dc59521-b1ea-4f53-885d-e3c4dae37e1a" />
